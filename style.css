@@ -1,0 +1,22 @@
+/*
+  Theme Name: Clean Blog
+  Theme URI: https://www.facebook.com/rakib.khr
+  Description: this is a free blog magazine theme. Everyone can download and use it.
+  Author: Rakib Khan
+  Author URI: https://www.facebook.com/rakib.khr
+  Tags: blog, magazine, wordpress blog theme ;
+*/
+
+.widget {
+    list-style: none;
+}
+#mainNav .navbar-nav>li.nav-item>a {
+  padding: 10px;
+  color: #fff;
+}
+
+@media only screen and (max-width: 992px){
+ #mainNav .navbar-nav>li.nav-item>a {
+      color: black;
+  } 
+}
